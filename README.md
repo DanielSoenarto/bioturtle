@@ -1,0 +1,1 @@
+This is a Python mini project to calculate GC content of a nucleotide
